@@ -1,0 +1,22 @@
+{
+    "ShowHiddenChannels": true,
+    "BDFDB": true,
+    "CallTimeCounter": true,
+    "ZeresPluginLibrary": true,
+    "Translator": true,
+    "BetterRoleColors": false,
+    "SplitLargeMessages": true,
+    "UserVolumeBooster": true,
+    "ImageUtilities": true,
+    "HideDisabledEmojis": true,
+    "ServerDetails": false,
+    "ShowConnections": true,
+    "JoinedAtDate": true,
+    "BiggerStreamPreview": true,
+    "BetterNsfwTag": true,
+    "CharCounter": true,
+    "MemberCount": true,
+    "BlurNSFW": true,
+    "HideChannels": true,
+    "FileViewer": true
+}

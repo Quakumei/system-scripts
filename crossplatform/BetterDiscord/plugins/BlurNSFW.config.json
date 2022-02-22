@@ -1,0 +1,11 @@
+{
+    "currentVersionInfo": {
+        "version": "0.2.5",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "blurSize": 14.838709677419356,
+        "blurTime": 200,
+        "blurOnFocus": true
+    }
+}
