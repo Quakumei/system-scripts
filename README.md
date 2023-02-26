@@ -1,2 +1,2 @@
-# qaku-config
+# system-scripts
 Collection of various configurations for stuff I use
